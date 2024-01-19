@@ -48,7 +48,6 @@ public class LoginPageSteps {
 		System.out.println(scenario.getName());
 		System.out.println(scenario.getId());
 		scenario.attach(f, "image/png", scenario.getId());
-
 	}
 
 
